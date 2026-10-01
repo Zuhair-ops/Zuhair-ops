@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Syed Zuhair 👋
 
-<!--
-**Zuhair-ops/Zuhair-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IoT, Blockchain & Cybersecurity Engineering Student  
+💻 Interested in Software Development, IoT, Cybersecurity & AI
 
-Here are some ideas to get you started:
+ 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: C, C++, Python
+- Web: HTML, CSS
+- Database: MySQL
+- Tools: Git, GitHub, Canva
+- Concepts: Data Structures, Database Management, IoT
+
+🚀 Currently Working On
+
+- Building practical software and IoT projects
+- Improving my Data Structures & Algorithms skills
+- Learning Git & GitHub
+- Exploring LLM Security & Guardrail Testing
+- Participating in hackathons and technical competitions
+- Looking for IT internship opportunities
+
+ 🎯 Interests
+
+Software Development • Cybersecurity • IoT • AI • Blockchain • 
+
+📫 Connect With Me
+
+📧 Email: syedzuhair911@gmail.com
+
